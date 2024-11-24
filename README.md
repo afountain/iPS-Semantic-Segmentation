@@ -1,7 +1,7 @@
 # SSAT: From Sensor data to Satellite Imaginary with Auto-Correlation Transformer for Enhanced AOD Regression Prediction
 
 <a href='https:/'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> 
-![sample](docs/sample.jpg "sample")
+![sample](docs/output_3.png "sample")
 
 ## 📌News
 
