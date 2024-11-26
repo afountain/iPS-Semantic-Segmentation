@@ -12,7 +12,7 @@
 - [x] Release the model and inference code
 - [x] Provide publicly accessible demo link
 - [ ] Provide samples of result
-- [x] Release tools for merging weights from community models or LoRAs
+- [x] Release tools for merging weights from community models
 - [x] Release SSAT-benchmark evaluation code
 - [x] Release SSAT training code
  
