@@ -9,12 +9,12 @@
 [2024.07.21] - Begin based on work of https://www.mdpi.com/2184536 .  
 
 ## ⏰TODOs
-- [x] Release the model and inference code
+- [ ] Release the model and inference code
 - [x] Provide publicly accessible demo link
 - [ ] Provide samples of result
-- [x] Release tools for merging weights from community models or LoRAs
-- [x] Release SSAT-benchmark evaluation code
-- [x] Release SSAT training code
+- [ ] Release tools for merging weights from community models or LoRAs
+- [ ] Release SSAT-benchmark evaluation code
+- [ ] Release SSAT training code
  
 
 ## 💡Methodology
