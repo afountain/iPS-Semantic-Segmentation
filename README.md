@@ -10,7 +10,7 @@
 
 ## ⏰TODOs
 - [ ] Release the model and inference code
-- [x] Provide publicly accessible demo link
+- [x] Provide publicly accessible result
 - [ ] Provide samples of result
 - [ ] Release tools for merging weights from community models or LoRAs
 - [ ] Release SSAT-benchmark evaluation code
