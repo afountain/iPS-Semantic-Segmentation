@@ -1,4 +1,4 @@
-# SSAT: From Sensor data to Satellite Imaginary with Auto-Correlation Transformer for Enhanced AOD Regression Prediction
+# SSAT: From Sensor data to Satellite Imaginary with Auto-Correlation Transformer for Enhanced Aerosol Optical Depth Prediction
 
 <a href='https:/'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> 
 ![sample](docs/Africa_images/date_20210124.png "sample")
