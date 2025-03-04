@@ -1,9 +1,13 @@
 # Semantic Segmentation of iPS Cells at the Single-Pixel Level: Case Study on Model Complexity in Biomedical Imaging
 
-<a href='https:/'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> 
+<a href='https:/'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+DeepLabv3 sample result 1
 ![sample](docs/dlv3_samples/result_dpv3_1.jpg "DLv3 sample result 1")
+SAM2 sample result 1
 ![sample](docs/sam2_samples/result_sam2_1.jpg "SAM2 sample result 1")
+DeepLabv3 sample result 5
 ![sample](docs/dlv3_samples/result_dpv3_5.jpg "DLv3 sample result 5")
+SAM2 sample result 5
 ![sample](docs/sam2_samples/result_sam2_5.jpg "SAM2 sample result 5")
 
 ## 📌News
