@@ -20,8 +20,7 @@ SAM2 sample result 5:
 - [x] Provide publicly accessible result
 - [ ] Provide samples of result
 - [ ] Release tools for merging weights from community models or LoRAs
-- [ ] Release SSAT-benchmark evaluation code
-- [ ] Release SSAT training code
+
 >>>>>>> origin/main
 
 ## 💡Description
